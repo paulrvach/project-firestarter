@@ -7,3 +7,6 @@ yarn-error.log
 logs
 *.log
 .env
+
+# Misc 
+.DS_Store
