@@ -1,5 +1,7 @@
 # React-Tailwindcss-Express Firestater
 
+![Firestarter Design System](https://res.cloudinary.com/dxmqknhgj/image/upload/v1688925123/Firestater_Design_system_header_jw2zcy.png)
+
 Firestater is a project template for kickstarting your web development projects with webpack, Babel, and other essential tools. It provides a pre-configured `package.json` file that sets up the necessary dependencies and scripts to help you quickly get started.
 
 ## Installation
