@@ -1,12 +1,12 @@
-# React-Tailwindcss-Express Firestater
+# React-Tailwindcss-Express Firestarter
 
 ![Firestarter Design System](https://res.cloudinary.com/dxmqknhgj/image/upload/v1688925123/Firestater_Design_system_header_jw2zcy.png)
 
-Firestater is a project template for kickstarting your web development projects with webpack, Babel, and other essential tools. It provides a pre-configured `package.json` file that sets up the necessary dependencies and scripts to help you quickly get started.
+Firestarter is a project template for kickstarting your web development projects with webpack, Babel, and other essential tools. It provides a pre-configured `package.json` file that sets up the necessary dependencies and scripts to help you quickly get started.
 
 ## Installation
 
-To use Firestater, follow these steps:
+To use Firestarter, follow these steps:
 
 1. Clone the repository:
    ```bash
@@ -15,7 +15,7 @@ To use Firestater, follow these steps:
 
 2. Navigate to the project directory:
    ```bash
-   cd firestater
+   cd project-firestarter
    ```
 
 3. Install the project dependencies:
@@ -25,7 +25,7 @@ To use Firestater, follow these steps:
 
 ## Usage
 
-Firestater comes with several predefined scripts in the `package.json` file to simplify your development workflow:
+Firestarter comes with several predefined scripts in the `package.json` file to simplify your development workflow:
 
 - **Build**: Compiles the project for production.
   ```bash
@@ -62,7 +62,7 @@ Firestater comes with several predefined scripts in the `package.json` file to s
 The project structure is set up as follows:
 
 ```
-firestater/
+project-firestarter/
 ├── server/
 │   └── server.js
 ├── src/
@@ -84,7 +84,7 @@ Feel free to modify the project structure according to your needs.
 
 ## Dependencies
 
-Firestater includes the following dependencies:
+Firestarter includes the following dependencies:
 
 - `@babel/core`: Babel core package.
 - `@babel/preset-env`: Babel preset for compiling JavaScript to a compatible version.
@@ -104,7 +104,7 @@ Firestater includes the following dependencies:
 - `webpack-cli`: Command-line interface for webpack.
 - `webpack-dev-server`: Development server for webpack.
 
-Firestater also includes the following runtime dependencies:
+Firestarter also includes the following runtime dependencies:
 
 - `cookie-parser`: Express middleware for parsing cookies.
 - `cors`: Express middleware for enabling Cross-Origin Resource Sharing (CORS).
