@@ -1,4 +1,4 @@
-# React-Tailwindcss-Express Firestater
+# React-Tailwindcss-Express Firestarter
 
 ![Firestarter Design System](https://res.cloudinary.com/dxmqknhgj/image/upload/v1688925123/Firestater_Design_system_header_jw2zcy.png)
 
